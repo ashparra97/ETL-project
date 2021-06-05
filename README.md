@@ -2,6 +2,10 @@
 
 ## Summary 
 
-Data was 
+Two sources of data were used for this project, both pulled from Kaggle. The first .csv included information on number of climatological disasters by country, as well as number of deaths and people affected in each country. The data binned by decades.
 
-## 
+The second .csv included information on greenhouse gas emission by country, including the amount of emissions by year.
+
+The two .csv were cleaned up separately and then joined on Country ID.
+
+## Findings
