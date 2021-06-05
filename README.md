@@ -6,6 +6,6 @@ Two sources of data were used for this project, both pulled from Kaggle. The fir
 
 The second .csv included information on greenhouse gas emission by country, including the amount of emissions by year.
 
-The two .csv were cleaned up separately using pandas. Using pgAdmin4, the two csvs were joined on Country ID by . The final .csv was exported and inported into a database in pgAdmin 4.
+The two .csv were cleaned up separately using pandas. Using pgAdmin4, the two csvs were joined on Country ID. The final .csv was exported and inported into a database in pgAdmin 4.
 
 ## Findings
