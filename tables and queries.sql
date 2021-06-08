@@ -19,6 +19,7 @@ SELECT * FROM disasters;
 
 SELECT * FROM ghg;
 
+-- Table names ultimately had to be altered because they were not being recognized by the query
 ALTER TABLE ghg
 RENAME COLUMN "Countries or areas" TO Countries_or_areas;
 
